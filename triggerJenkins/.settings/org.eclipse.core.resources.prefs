@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//config/config.py=utf-8
+encoding//logService/logService.py=utf-8
+encoding/functionSet.py=utf-8
+encoding/jenkinsManager.py=utf-8
+encoding/pyMail.py=utf-8
+encoding/receiveAndSendMail.py=utf-8
+encoding/run.py=utf-8
+encoding/test.py=utf-8

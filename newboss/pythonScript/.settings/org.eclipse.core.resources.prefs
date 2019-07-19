@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//config/config.py=utf-8
+encoding//config/jiraConfig.py=utf-8
+encoding//exception/myException.py=utf-8
+encoding//logmodule/logService.py=utf-8
+encoding//tools/ftpManager.py=utf-8
+encoding//tools/tool.py=utf-8
+encoding/build.py=utf-8
+encoding/buildDockerImage.py=utf-8
+encoding/createDpmAndSvcYaml.py=utf-8
+encoding/createFtpDir.py=utf-8
+encoding/deletePod.py=utf-8
+encoding/mvFileToOutputFileFolder.py=utf-8
+encoding/recordChanggingsToJira.py=utf-8
+encoding/test.py=utf-8
+encoding/test3.py=utf-8
+encoding/uploadProductToFtp.py=utf-8
